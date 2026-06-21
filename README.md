@@ -1,3 +1,4 @@
+[Live Demo](https://researchai-theta.vercel.app/)
 # AI Research Assistant
 
 An advanced AI-powered research and study platform that enables users to interact with documents, research papers, URLs, and images through a conversational interface. The platform combines document intelligence, adaptive learning, research analytics, and secure AI-powered workflows using Google Gemini and Supabase.
